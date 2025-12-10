@@ -89,12 +89,3 @@ Run the notebook:
 jupyter notebook EDA_restaurantSales.ipynb
 ```
 
-📌 Future Scope
-1. Add predictive analytics (sales forecasting)
-2. Category-based recommendation system
-3. Dashboard using Power BI / Tableau / Streamlit
-
-📄 License
-This project is released for learning and analysis purposes. You may modify or extend it freely.
-
-✨ If you found this analysis useful, consider ⭐ starring the repository!
